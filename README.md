@@ -27,7 +27,7 @@ Inside of each category you'll find a **README.md** file, which will contain a m
 
 # Categories
 
-Below is a short description of each category.
+Below is a short description of each sample category.
 
 ## Basic
 
